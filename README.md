@@ -1,5 +1,15 @@
 # four-card-feature-section
 
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+
 ## Overview
 
 ### The Challenge
@@ -20,5 +30,10 @@ and the ![mobile Version's 375px screenshot](./screenshot_mobile.png).
 
 ### Built with:
 
+- HTML
 - CSS custom properties
 - Flexbox
+
+### What I learned
+
+Repeated Flexbox
