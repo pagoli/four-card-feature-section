@@ -23,12 +23,12 @@ and the ![mobile Version's 375px screenshot](./screenshot_mobile.png).
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/pagoli/four-card-feature-section)
+- Live Site URL: [](https://pagoli.github.io/four-card-feature-section/)
 
 ## My process
 
-### Built with:
+### Built with
 
 - HTML
 - CSS custom properties
