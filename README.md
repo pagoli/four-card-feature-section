@@ -23,8 +23,8 @@ and the ![mobile Version's 375px screenshot](./screenshot_mobile.png).
 
 ### Links
 
-- Solution URL: [](https://github.com/pagoli/four-card-feature-section)
-- Live Site URL: [](https://pagoli.github.io/four-card-feature-section/)
+- Solution URL: [click here](https://github.com/pagoli/four-card-feature-section)
+- Live Site URL: [click here](https://pagoli.github.io/four-card-feature-section/)
 
 ## My process
 
